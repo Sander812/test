@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import pydeck as pdk
-import geopy
 from geopy.geocoders import GoogleV3
 
 # Initialiser Google Geocoder med din API-nøkkel
